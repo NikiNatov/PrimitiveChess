@@ -1,0 +1,51 @@
+﻿  Board.cpp
+C:\Projects\PrimitiveChessSFML\Classes\Board\Board.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chess.cpp
+  King.cpp
+C:\Projects\PrimitiveChessSFML\Classes\Board\Board.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,70): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,70): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,70): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,70): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,52): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,52): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,52): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(60,52): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,84): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,84): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,84): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,84): warning C4244:         ]
+  Rook.cpp
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,52): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,52): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,52): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\King.cpp(62,52): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,70): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,70): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,70): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,70): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,52): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,52): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,52): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(58,52): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,84): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,84): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,84): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,84): warning C4244:         ]
+  Renderer.cpp
+  PrimitiveChessSFML.cpp
+  Generating Code...
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,52): warning C4244:         with
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,52): warning C4244:         [
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,52): warning C4244:             T=float
+C:\Projects\PrimitiveChessSFML\Classes\Figures\Rook.cpp(60,52): warning C4244:         ]
+C:\Projects\PrimitiveChessSFML\Classes\Board\Board.cpp(36): warning C4715: 'Board::getSprite': not all control paths return a value
+  PrimitiveChessSFML.vcxproj -> C:\Projects\PrimitiveChessSFML\Debug\PrimitiveChessSFML.exe
